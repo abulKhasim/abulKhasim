@@ -13,7 +13,7 @@ I'm Abul Khasim, a passionate computer science student with a flair for web deve
 ## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=abulKhasim&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
-<p align="center" style="display:flex;">
+<p align="center" style="display:flex; align-items:start;">
   <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=abulKhasim&show_icons=true&theme=dark#gh-dark-mode-only" /> 
 
   <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=abulKhasim&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
