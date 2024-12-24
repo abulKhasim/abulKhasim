@@ -5,22 +5,24 @@
 I'm Abul Khasim, a passionate computer science student with a flair for web development. I'm an enthusiastic developer with expertise in both front-end and back-end technologies. I have been dedicated to building impactful, user-focused applications that address real-world challenges and deliver seamless experiences. 
 <!-- cysec -->
 
+- 🌐 My website - www.abulkhasim.com.
 - 🌱 I’m currently learning NextJS.
 - 👯 I’m looking to contribute on open source projects.
 - 💬 Ask me anything about Web Development.
+- 💻 Let's build something impactful together!
 - 📫 How to reach me: abulkhasim486@gmail.com
 
 ## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=abulKhasim&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 <p align="center" style="display:flex; align-items: start;">
-  <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=abulKhasim&show_icons=true&theme=dark#gh-dark-mode-only" /> 
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=abulKhasim&show_icons=true&theme=dark#gh-dark-mode-only" /> 
 
-  <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=abulKhasim&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%"   src="https://github-readme-streak-stats.herokuapp.com?user=abulKhasim&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p> 
 
 
-![Abul Khasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abulKhasim&theme=aqua)
+![Abul Khasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abulKhasim&theme=green)
 > Note: The number of contributions is subject to college exams. 😂
 
 ## <h1>Languages and Tools<h1>
