@@ -6,7 +6,7 @@ I'm Abul Khasim, a passionate computer science student with a flair for web deve
 <!-- cysec -->
 
 - 🌐 My website - www.abulkhasim.com.
-- 🌱 I’m currently learning NextJS.
+- 🌱 I’m currently learning Airtificial Intellgence.
 - 👯 I’m looking to contribute on open source projects.
 - 💬 Ask me anything about Web Development.
 - 💻 Let's build something impactful together!
@@ -16,14 +16,14 @@ I'm Abul Khasim, a passionate computer science student with a flair for web deve
 
 
 <p align="center" style="display:flex; align-items: start;">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=abulKhasim&show_icons=true&theme=dark#gh-dark-mode-only" /> 
+  <!-- <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=abulKhasim&show_icons=true&theme=dark#gh-dark-mode-only" />  -->
 
   <img width="48%"   src="https://github-readme-streak-stats.herokuapp.com?user=abulKhasim&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p> 
 
 
-![Abul Khasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abulKhasim&theme=green)
-> Note: The number of contributions is subject to college exams. 😂
+<!-- ![Abul Khasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abulKhasim&theme=green)
+> Note: The number of contributions is subject to college exams. 😂 -->
 
 ## <h1>Languages and Tools<h1>
 <p align="center">
